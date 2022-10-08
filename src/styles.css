@@ -43,5 +43,6 @@ form {
   padding-bottom: 10px;
 }
 p {
-  padding-left: 400px;
+  padding-left: 300px;
+  font-weight: bold;
 }
